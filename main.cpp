@@ -242,7 +242,7 @@ int main() {
     cin >> c;
 
     if (a > b && a > c){
-        cout<< "a is not the largest number"<<endl;
+        cout<< "a is the largest number"<<endl;
     }else{
         cout << "a is not the largest number" << endl;
     }
